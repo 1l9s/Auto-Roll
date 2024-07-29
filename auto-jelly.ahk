@@ -1,7 +1,7 @@
 /************************************************************************
  * @description Auto-Jelly is a macro for the game Bee Swarm Simulator on Roblox. It automatically rolls bees for mutations and stops when a bee with the desired mutation is found. It also has the ability to stop on mythic and gifted bees.
  * @file auto-jelly.ahk
- * @author ninju | .ninju.
+ * @author Ouzvy
  * @date 2024/07/24
  * @version 0.0.1
  ***********************************************************************/
